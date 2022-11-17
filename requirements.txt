@@ -1,0 +1,7 @@
+flask 
+psycopg2-binary
+python-dotenv
+flask_sqlalchemy
+sqlalchemy
+flask-login
+sqlalchemy_serializer
